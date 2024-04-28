@@ -56,11 +56,3 @@ def mcq_gen_fun(text,quantity,level,subject):
     response=response.replace("*","")
 
     return response
-
-result=mcq_gen_fun(text=pdf_text(r"E:/final_mcq_gen/linear_algebra_chap_01_mit.pdf"),
-            quantity=5,
-            level="Easy",
-            subject='Advance Programming',
-            )
-
-print(result)
