@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: mcqgenrator
+Version: 0.0.1
+Author: muhammad-waleed
+Author-email: waleednaveed962@gmail.com
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: pypdf
