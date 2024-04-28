@@ -1,4 +1,4 @@
 langchain
 pypdf
-
+langchain_google_genai
 -e.
